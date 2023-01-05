@@ -23,7 +23,8 @@ class insertionsort
 		sort(a,l);
 		for(int i=0;i<l;i++)
 		{
-			System.out.println(a[i]);
+		System.out.println("hi");
+	System.out.println(a[i]);
 		}
 	}
 }
